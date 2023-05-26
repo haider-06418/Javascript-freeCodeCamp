@@ -1,3 +1,5 @@
+// Lesson 1: Javascript basics, datatypes, variables, mathematical, comparision & logical operators, Strings
+
 console.log("Hello World");
 
 // For running through terminal/CMD: $ node filename.js
