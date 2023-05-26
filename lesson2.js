@@ -1,3 +1,5 @@
+// Lesson 2: strings, arrays, conditional statements, switches, boolean values
+
 const name = 'haider'
 const phrase = 'skywalker commands the 501st legion'
 
